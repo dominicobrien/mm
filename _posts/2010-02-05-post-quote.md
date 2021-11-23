@@ -1,12 +1,29 @@
 ---
-title: "Post: Quote"
+title: "Old Friends"
+last_modified_at: 2021-11-23T23:20:02+01:00
 categories:
   - Blog
 tags:
-  - Post Formats
-  - quote
+  - friends
 ---
 
-> Only one thing is impossible for God: To find any sense in any copyright law on the planet.
-  
-> <cite><a href="http://www.brainyquote.com/quotes/quotes/m/marktwain163473.html">Mark Twain</a></cite>
+Just had this idea which could be kind of cool:
+
+Make a list the names of all the people I lost track off on my blog. They are bound to search for themselves one day and - Voila - they stumble across my site where they can get in touch - if they want.
+
+On Facebook & co they have to look for me specifically or accidentally get somehow linked to mem.
+
+This way it's not necessary.
+
+List:
+- Frank Birkhold
+- <s>Irfan Malik</s>
+- <s>Debbie Cook</s>
+- <s>Stephanie Robinson (used to be Stephanie Carry)</s>
+- <s>Scott Chaplin</s>
+- <s>Hodl Whittaker</s>
+- <s>Abigail Whittaker now Abigail Miller</s>
+- <s>Tal Whittaker</s>
+- ~~Naomi Whittaker~~
+- Luke Alampo
+- Steven Wilks
