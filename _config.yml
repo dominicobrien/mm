@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Off The Cuff...
+email: 
 description: >- # this means to ignore newlines until "baseurl:"
   Dominic O'Brien's personal Blog called "Off The Cuff... -  My thoughts on life, the world and what should or should not be done about it."
 twitter_username: dominicnobrien
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Dominic O'Brien"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Software guy, hardware guy, entrepreneur, writer, father, guru. My thoughts on life, the world and what should or should not be done about it."
+  bio    : "Entrepreneur, writer, father, guru. My thoughts on life, the world and what should or should not be done about it."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
