@@ -1,11 +1,11 @@
 ---
 title: "On Government"
+date: 2005-06-12T17:08:05+01:00
 categories:
   - Blog
 tags:
   - government
 ---
-
 Some girl I met the other day told me (subject to verification, but makes sense) that every 6th person in the UK, works for the government!
 
 I was shocked.
