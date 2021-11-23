@@ -14,16 +14,3 @@ Make a list the names of all the people I lost track off on my blog. They are bo
 On Facebook & co they have to look for me specifically or accidentally get somehow linked to mem.
 
 This way it's not necessary.
-
-List:
-- Frank Birkhold
-- <s>Irfan Malik</s>
-- <s>Debbie Cook</s>
-- <s>Stephanie Robinson (used to be Stephanie Carry)</s>
-- <s>Scott Chaplin</s>
-- <s>Hodl Whittaker</s>
-- <s>Abigail Whittaker now Abigail Miller</s>
-- <s>Tal Whittaker</s>
-- ~~Naomi Whittaker~~
-- Luke Alampo
-- Steven Wilks
