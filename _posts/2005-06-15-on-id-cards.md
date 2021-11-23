@@ -1,5 +1,6 @@
 ---
 title: "On ID Cards"
+date: 2005-06-15T17:08:05+01:00
 last_modified_at: 2021-11-23T23:00:02+01:00
 categories:
   - Blog
@@ -8,7 +9,6 @@ tags:
   - id cards
   - George Orwell
 ---
-
 Who is aware of the new ID Card bill that UK labour government is trying to push through?
 
 If you are not aware of it, wake up and get informed and do something about it. 
