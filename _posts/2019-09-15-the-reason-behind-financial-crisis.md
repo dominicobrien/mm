@@ -1,5 +1,6 @@
 ---
 title: "The Error Behind Financial Crisis"
+date: 2019-09-15T17:08:05+01:00
 categories:
   - Blog
 tags:
@@ -9,7 +10,6 @@ tags:
   - financial reform
 # link: https://github.com
 ---
-
 I was asked to write down my ideas as to why the global economy is on a downtrend and exponential indebtedness downwards spiral and what can be done about it.
 
 In it, you find the major single reason for the decline of the global economy and unprecedented and exponential indebtedness of individuals and nations. If you inspect the figures it is hard to debate that something is not right. Political parties and interest groups are debating at length the reasons and solutions.
@@ -99,4 +99,3 @@ https://en.wikipedia.org/wiki/Heterodox_economics
 https://en.wikipedia.org/wiki/Quantity_theory_of_money
 
 https://en.wikipedia.org/wiki/Money_supply
-
