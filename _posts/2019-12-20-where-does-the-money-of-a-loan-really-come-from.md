@@ -9,7 +9,7 @@ tags:
   - Government
   - Financial Reform
 ---
-Well, good question. In September I wrote an article on the solution to the international financial crisis "A Word on Finance" ({% post_url 2019-09-15-the-reason-behind-financial-crisis %}) and while the article was well received, I have been getting many questions on a specific point: Where does the money of a loan really come from? Readers seem to not get that point fully.
+Well, good question. In September I wrote an article on the solution to the international financial crisis "A Word on Finance" [The Reason Behind Financial Crisis]({% post_url 2019-09-15-the-reason-behind-financial-crisis %}) and while the article was well received, I have been getting many questions on a specific point: Where does the money of a loan really come from? Readers seem to not get that point fully.
 
 Let me lay it out here, one more time, really clearly:
 
