@@ -2,12 +2,12 @@
 title: "Where does the money of a loan really come from?"
 date: 2019-12-20T17:08:05+01:00
 categories:
-  - blog
+  - Politics
 tags:
-  - finance
-  - money
-  - government
-  - financial reform
+  - Finance
+  - Money
+  - Government
+  - Financial Reform
 ---
 Well, good question. In September I wrote an article on the solution to the international financial crisis "A Word on Finance" (https://listed.to/@understandings/11377/the-error-behind-financial-crisis) and while the article was well received, I have been getting many questions on a specific point: Where does the money of a loan really come from? Readers seem to not get that point fully.
 
