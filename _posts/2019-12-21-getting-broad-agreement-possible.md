@@ -2,12 +2,12 @@
 title: "Getting Broad Agreement Possible"
 date: 2019-12-21T17:08:05+01:00
 categories:
-  - blog
+  - Politics
 tags:
-  - finance
-  - money
-  - government
-  - financial reform
+  - Finance
+  - Money
+  - Government
+  - Financial Reform
 ---
 This is taken from a comment on one of my earlier posts "A Word on Finance" (https://listed.to/@understandings/11377/the-error-behind-financial-crisis) to which I wrote a long reply and which I felt warranted its own post. If you haven’t read it you should do so first otherwise this will make little sense.
 
