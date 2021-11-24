@@ -9,7 +9,7 @@ tags:
   - Government
   - Financial Reform
 ---
-This is taken from a comment on one of my earlier posts "A Word on Finance" (https://listed.to/@understandings/11377/the-error-behind-financial-crisis) to which I wrote a long reply and which I felt warranted its own post. If you haven’t read it you should do so first otherwise this will make little sense.
+This is taken from a comment on one of my earlier posts "A Word on Finance" ({% post_url 2019-09-15-the-reason-behind-financial-crisis %}) to which I wrote a long reply and which I felt warranted its own post. If you haven’t read it you should do so first otherwise this will make little sense.
 
 The solution stated in that post is a solution that is fixing one point and one point only: Only the biggest departure from what would otherwise be an ideal situation. It does not create a complete solution for a perfect system. But it does handle the biggest point, which, when corrected fixes the largest part of the problem at turns things around. Certainly, once this is implemented, other correction could be envisioned.
 
