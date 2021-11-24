@@ -82,14 +82,8 @@ author:
 footer:
   links:
     - label: "Facebook"
-      icon: "fa fa-facebook-official"
+      icon: "fab fa-fw fa-facebook-official"
       url: "https://www.facebook.com/dominicnobrien"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
 
 defaults:
   # _posts
