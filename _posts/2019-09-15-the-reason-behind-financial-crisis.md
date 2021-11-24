@@ -2,12 +2,12 @@
 title: "The Error Behind Financial Crisis"
 date: 2019-09-15T17:08:05+01:00
 categories:
-  - Blog
+  - Politics
 tags:
-  - finance
-  - money
-  - government
-  - financial reform
+  - Finance
+  - Money
+  - Government
+  - Financial Reform
 # link: https://github.com
 ---
 I was asked to write down my ideas as to why the global economy is on a downtrend and exponential indebtedness downwards spiral and what can be done about it.
