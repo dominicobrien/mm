@@ -70,16 +70,16 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://dominicobrien.me"
     - label: "Facebook"
-      icon: "fas fa-fw fa-facebook-official"
+      icon: "fas fa-fw fa-facebook"
       url: "https://www.facebook.com/dominicnobrien"
     - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-official"
+      icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/dominicnobrien"
 
 footer:
   links:
     - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-official"
+      icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/dominicnobrien"
 
 defaults:
